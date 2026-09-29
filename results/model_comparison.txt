@@ -1,0 +1,31 @@
+NETWORK ATTACK FORECASTING MODEL COMPARISON
+============================================================
+
+Model: Logistic Regression
+----------------------------------------
+Accuracy: 0.992711
+Precision: 0.985281
+Recall: 1.000000
+F1: 0.992586
+ROC-AUC: 0.991211
+False Positive Rate: 0.014235
+False Negative Rate: 0.000000
+
+Confusion Matrix:
+[[1108, 16],
+ [0, 1071]]
+
+Model: LSTM
+----------------------------------------
+Accuracy: 1.000000
+Precision: 1.000000
+Recall: 1.000000
+F1: 1.000000
+ROC-AUC: 1.000000
+False Positive Rate: 0.000000
+False Negative Rate: 0.000000
+
+Confusion Matrix:
+[[1124, 0],
+ [0, 1071]]
+

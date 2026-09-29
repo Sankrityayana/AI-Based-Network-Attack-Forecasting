@@ -1,0 +1,16 @@
+LOGISTIC REGRESSION BASELINE
+==================================================
+
+Validation Results
+accuracy: 1.0000
+precision: 1.0000
+recall: 1.0000
+f1: 1.0000
+roc_auc: 1.0000
+
+Test Results
+accuracy: 0.9927
+precision: 0.9853
+recall: 1.0000
+f1: 0.9926
+roc_auc: 0.9912
