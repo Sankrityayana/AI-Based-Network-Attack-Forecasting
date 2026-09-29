@@ -1,14 +1,14 @@
 LSTM NETWORK ATTACK FORECASTING
 ==================================================
 
-Accuracy: 0.996355
-Precision: 0.992586
+Accuracy: 1.000000
+Precision: 1.000000
 Recall: 1.000000
-F1: 0.996279
+F1: 1.000000
 ROC-AUC: 1.000000
-False Positive Rate: 0.007117
+False Positive Rate: 0.000000
 False Negative Rate: 0.000000
 
 Confusion Matrix:
-[[1116    8]
+[[1124    0]
  [   0 1071]]
